@@ -15,3 +15,4 @@ This repository consists of:
 * student\_grade.py (the class definition file itself)
 * student\_grade\_demo.py (a testing program for the class with input)
 * test\_student\_grade.py (a unit testing program for the class (no input))
+* \_\_init\_\_.py (the package initializer file. Included to test package functionality)
